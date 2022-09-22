@@ -1,6 +1,6 @@
 Aplicação desenvolvida por [Thiele Nunes](https://github.com/thielenunes)
 
-Usando layout produzido pela instituição Alkemy - 2022, na qual foi realizado pequenas alterações de cor e vetores.
+Usando layout produzido pela instituição Alkemy - 2022 durante o trenamento do Mercado Livre, na qual foi realizado pequenas alterações de cor e vetores.
 
 # integradorAndroidMeli
 Projeto integrador de Android, desenvolvido de maneira individual. Para consolidar alguns conteúdos absorvidos do bootcamp de aceleração de desenvolvimento Android.
